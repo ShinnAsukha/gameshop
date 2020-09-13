@@ -4,29 +4,3 @@ GAMESHOP Satış Platformu Güncellemeleri
 **En Ucuz Fiyata Oyun Hesapları ve Oyunları Satın Alın!**
 
 
-# v1.0.0 Güncellemesi
-- Kayıt / Giriş Sistemi
-- Destek Talebi Sistemi
-- Ödeme Sistemi
-- Shopier Ödeme Sistemi
-- EFT/HAVALE Ödeme Sistemi
-- Kategori Sistemi
-- Hesap Sistemi
-- Parola Sıfırlama Sistemi
-- Dil Seçeneği (EN/TR)
-- shopCoin Sistemi (1TL, 0.7$, 0.6€)
-- Toplu Hesap Satın Alma
-- Tekli Hesap Satın Alma
-- Toplu Hesap İndirme
-- Tekli Hesap İndirme
-- Ödeme Bildirimleri
-- 3D Secure
-- Telefon Doğrulaması
-- Kullanıcı Paneli
-- Yüksek Stok Özelliği
-- Sesli Destek Sistemi (Discord Sunucusu Olarak)
-- Aldığınız Hesap Sayısı
-- Toplam Ödenen shopCoin Sayısı
-- Satış Sözleşmesi
-- Kullanım Koşulları
-**düzenlendi**
